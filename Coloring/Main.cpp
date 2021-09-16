@@ -1,4 +1,3 @@
-#include <functional>
 #include "Graph.hpp"
 
 void RunWithTimings(const int x) {
