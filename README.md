@@ -1,8 +1,8 @@
 # Graph Creation, Ordering, and Coloring With Detailed Asymptotic Run Time Analysis
 ### This project was done for CS5350 - Algorithm Engineering
 
-### The detailed requirements for the project can be found in [Project requirements.pdf](Project_requirements.pdf)
-### The accompanying report I wrote can be found in [Project Report.pdf](Project-Report.pdf)
+#### The detailed requirements for the project can be found in [Project requirements.pdf](Project_requirements.pdf)
+#### The accompanying report I wrote can be found in [Project Report.pdf](Project-Report.pdf)
 
 ## High Level Requirements Summary
 * Be able to analyze the runtime complexity of large projects
