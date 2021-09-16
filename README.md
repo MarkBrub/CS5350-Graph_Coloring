@@ -1,9 +1,9 @@
-This is a project I did for my CS5350 Algorithm Engineering class
+# This is a project I did for my CS5350 Algorithm Engineering class
 
-The detailed requirements for the project can be found in [Project requirements.pdf](Project_requirements.pdf)
-The accompanying report I wrote can be found in [Project Report.pdf](Project-Report.pdf)
+### The detailed requirements for the project can be found in [Project requirements.pdf](Project_requirements.pdf)
+### The accompanying report I wrote can be found in [Project Report.pdf](Project-Report.pdf)
 
-# High Level Requirements Summary
+## High Level Requirements Summary
 * Be able to analyze the runtime complexity of large projects
 * Give accurate asymptotic running time analysis for all graph generation, vertex ordering, and coloring functions
 * Accuratly time execution of different parts of the code for analysis and optimization
